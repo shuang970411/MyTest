@@ -10,8 +10,8 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
 ## Pre-Session Knowledge
 1. **What do you already know about Version Control Systems (VCS)?**
    - [x] Nothing at all
-   - [ ] I've heard of it but never used it
-   - [ ] Basic understanding of VCS concepts
+   - [x] I've heard of it but never used it
+   - [x] Basic understanding of VCS concepts
    - [ ] Comfortable using VCS
    - [ ] I use VCS regularly
 
@@ -19,7 +19,7 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
    - [ ] Git
    - [x] Subversion (SVN)
    - [ ] Mercurial
-   - [ ] Team Foundation Version Control (TFVC)
+   - [x] Team Foundation Version Control (TFVC)
    - [ ] Other: 
 
 3. **Have you ever used GitHub or any other remote repository hosting service?**
